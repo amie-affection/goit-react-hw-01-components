@@ -1,31 +1,31 @@
 [
   {
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/shojberg/128.jpg",
-    "name": "Mango",
+    "avatar": "https://scontent.fiev11-1.fna.fbcdn.net/v/t31.0-1/c316.129.576.576a/s240x240/12000997_890202707714279_1003378332725151709_o.jpg?_nc_cat=105&_nc_sid=dbb9e7&_nc_ohc=IQ7XfV5tA0EAX8ZEd8h&_nc_ht=scontent.fiev11-1.fna&oh=8ecfc3b431a5fe14601089e148bc560a&oe=5F0DC206",
+    "name": "Lina",
     "isOnline": true,
     "id": 1812
   },
   {
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/j04ntoh/128.jpg",
-    "name": "Kiwi",
+    "avatar": "https://scontent.fiev11-1.fna.fbcdn.net/v/t1.0-1/c93.0.240.240a/p240x240/72172460_106191720790111_8837346792971436032_o.jpg?_nc_cat=104&_nc_sid=dbb9e7&_nc_ohc=GnvVPVj1rkkAX_l-5dl&_nc_ht=scontent.fiev11-1.fna&oh=d6ada9aa8d7ed464c3895aed68969258&oe=5F0DD430",
+    "name": "Dima",
     "isOnline": false,
     "id": 1137
   },
   {
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/r_oy/128.jpg",
-    "name": "Ajax",
+    "avatar": "https://scontent.fiev11-1.fna.fbcdn.net/v/t1.0-1/p240x240/38843887_2196430743924891_8006430535712768000_n.jpg?_nc_cat=111&_nc_sid=dbb9e7&_nc_ohc=jgW0RWAWKfUAX9cs7C1&_nc_ht=scontent.fiev11-1.fna&_nc_tp=6&oh=a16576328758b0457ecacc76caf7e236&oe=5F0CDB0E",
+    "name": "Mariia",
     "isOnline": true,
     "id": 1213
   },
   {
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mugukamil/128.jpg",
-    "name": "Jay",
+    "avatar": "https://scontent.fiev11-1.fna.fbcdn.net/v/t1.0-1/p240x240/71756391_2053014171465083_5407167571428376576_o.jpg?_nc_cat=105&_nc_sid=dbb9e7&_nc_ohc=AKgkrQdGuOkAX_3zZe8&_nc_ht=scontent.fiev11-1.fna&_nc_tp=6&oh=1d517af013686b2ad861b8051bd00c77&oe=5F0D1A2F",
+    "name": "Oksana",
     "isOnline": true,
     "id": 1714
   },
   {
-    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sweetdelisa/128.jpg",
-    "name": "Poly",
+    "avatar": "https://scontent.fiev11-1.fna.fbcdn.net/v/t1.0-1/p240x240/83253085_2363925370489110_1934736914053595136_n.jpg?_nc_cat=111&_nc_sid=dbb9e7&_nc_ohc=9PFGMN_N3toAX-Fv9pn&_nc_ht=scontent.fiev11-1.fna&_nc_tp=6&oh=33ebb3726b5f9a27620725e0ac392934&oe=5F10B396",
+    "name": "Lera",
     "isOnline": false,
     "id": 1284
   }

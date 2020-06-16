@@ -13,13 +13,13 @@ const FriendsList = ({ friends }) => {
 
 const FriendsListItem = ({ data: { avatar, name, isOnline } }) => {
   return (
-    <>
-      <li className={styles.item}>
-        <span className={styles.status}>{isOnline}</span>
-        <img className={styles.avatar} src={avatar} alt="" width="48" />
-        <p className={styles.name}>{name}</p>
-      </li>
-    </>
+    <li className={styles.item}>
+      <span className={isOnline ? styles.statusIsActive : styles.status}>
+        {isOnline}
+      </span>
+      <img className={styles.avatar} src={avatar} alt="" width="48" />
+      <p className={styles.name}>{name}</p>
+    </li>
   );
 };
 
