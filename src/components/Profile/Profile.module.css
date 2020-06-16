@@ -1,0 +1,43 @@
+.profile {
+    width: 250px;
+    background-color: lightsteelblue;
+}
+
+.avatar {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.name, .tag, .location {
+    text-align: center;
+}
+
+.tag, .location {
+    color: gray;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-left: 0;
+    background-color: lightblue;
+}
+
+.statsItem {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid lightseagreen;
+}
+
+.label {
+    font-size: 10px;
+    color: gray;
+}
+
+.quantity {
+    font-weight: bold;
+    display: block;
+}

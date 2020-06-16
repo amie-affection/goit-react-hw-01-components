@@ -1,0 +1,12 @@
+.transactionHistory {
+    width: 250px;
+    text-align: center;
+}
+
+.headTable {
+    background-color: cornflowerblue;
+}
+
+.headItem {
+    color: white;
+}
